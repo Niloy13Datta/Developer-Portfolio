@@ -1,0 +1,48 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.Color {
+    color: orange;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+section {
+    display: flex;
+}
+
+.Half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.Half-width img {
+    width: 50%;
+}
+
+#Size {
+    font-size: 30px;
+}
+
+.Hire {
+
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+}
+
+.Add-Banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
