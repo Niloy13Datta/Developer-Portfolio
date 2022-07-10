@@ -17,6 +17,7 @@ h2 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .Half-width {
@@ -28,8 +29,8 @@ section {
     width: 50%;
 }
 
-#Size {
-    font-size: 30px;
+.Size {
+    font-size: 25px;
 }
 
 .Hire {
@@ -45,4 +46,19 @@ section {
 .Add-Banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.Half-width2 {
+    width: 60%;
+    padding: 5%;
+
+}
+
+.Add-Banner2 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+
 }
